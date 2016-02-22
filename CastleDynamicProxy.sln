@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleDynamicProxy", "CastleDynamicProxy\CastleDynamicProxy.csproj", "{5970C010-FB33-44D9-8B95-51A28D3B04BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleDynamicProxy.Test", "CastleDynamicProxy.Test\CastleDynamicProxy.Test.csproj", "{D49B5798-E9FE-4006-B546-2F7594F38205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5970C010-FB33-44D9-8B95-51A28D3B04BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5970C010-FB33-44D9-8B95-51A28D3B04BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5970C010-FB33-44D9-8B95-51A28D3B04BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5970C010-FB33-44D9-8B95-51A28D3B04BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49B5798-E9FE-4006-B546-2F7594F38205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49B5798-E9FE-4006-B546-2F7594F38205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49B5798-E9FE-4006-B546-2F7594F38205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49B5798-E9FE-4006-B546-2F7594F38205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
